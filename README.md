@@ -169,23 +169,9 @@ python triplet.py
 
 ---
 
-## 📅 향후 개선 계획
-
-- [ ] **단기**: Qwen 2.5-72B와 같은 대형 모델의 양자화 추론 성능 테스트.
-- [ ] **중기**: 규칙 간 계층 구조(Hierarchy)를 반영한 Graph Neural Network 도입.
-- [ ] **장기**: 온디바이스(On-device) 작동 가능한 초경량 규칙 위반 탐지 모델 개발.
-
----
-
 ## 👨‍💻 개발자 정보
 
-*   **Name**: ysksean
-*   **Email**: [사용자 이메일 주소]
+*   **Name**: 김유신
+*   **Email**: timelesseda@gmail.com
 *   **GitHub**: [github.com/ysksean](https://github.com/ysksean)
-*   **LinkedIn**: [사용자 LinkedIn 링크]
 
----
-
-## 📜 라이선스
-
-본 프로젝트는 포트폴리오 및 연구 목적으로 제작되었습니다. 데이터셋의 저유권은 Kaggle 및 Jigsaw에 있으며, 상업적 이용 시 해당 라이선스를 준수해야 합니다.
