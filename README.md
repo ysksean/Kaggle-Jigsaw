@@ -1,5 +1,26 @@
 # 🛡️ Kaggle Jigsaw: Agile Community Rules violation Detection
 
+## 🏆 Competition Results
+- **Rank**: 123 / 2,445 (Top 6%)
+- **Medal**: 🥉 Bronze Medal
+- **Competition**: [Jigsaw - Agile Community Rules Classification](https://www.kaggle.com/competitions/jigsaw-agile-community-rules)
+
+## 📂 Environment & Data Sources
+
+### Input Datasets
+*   `/kaggle/input/qwen2-5-32b-gptq-int4-batch4-full`
+*   `/kaggle/input/qwen3-8b-embedding`
+*   `/kaggle/input/huggingfacedebertav3variants`
+
+### Pre-trained Models
+*   `/kaggle/input/baai/transformers/bge-base-en-v1.5/1`
+*   `/kaggle/input/baai/transformers/bge-small-en-v1.5/1`
+*   `/kaggle/input/jigsaw-pretrain-public/pytorch/llama-3.2-3b-instruct/1`
+*   `/kaggle/input/qwen-3-embedding/transformers/0.6b/1`
+*   `/kaggle/input/qwen2.5/transformers/14b-instruct-gptq-int4/1`
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
